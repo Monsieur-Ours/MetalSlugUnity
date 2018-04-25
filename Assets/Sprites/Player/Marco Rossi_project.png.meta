@@ -1,0 +1,6213 @@
+fileFormatVersion: 2
+guid: a50d99d611ecc0e41b3b5b47a45cce61
+timeCreated: 1523366216
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Marco Rossi_Top_Idle_1
+    21300002: Marco Rossi_Top_Idle_2
+    21300004: Marco Rossi_Top_Idle_3
+    21300006: Marco Rossi_Top_Idle_4
+    21300008: Marco Rossi_Top_ShootUp_5
+    21300010: Marco Rossi_Top_ShootUp_6
+    21300012: Marco Rossi_Top_Shoot_1
+    21300014: Marco Rossi_Top_Shoot_2
+    21300016: Marco Rossi_Top_Shoot_3
+    21300018: Marco Rossi_Top_Shoot_4
+    21300020: Marco Rossi_Top_Shoot_5
+    21300022: Marco Rossi_Top_Shoot_6
+    21300024: Marco Rossi_Top_Shoot_7
+    21300026: Marco Rossi_Top_Shoot_8
+    21300028: Marco Rossi_Top_Shoot_9
+    21300030: Marco Rossi_Top_Shoot_10
+    21300032: Marco Rossi_Top_Shoot_11
+    21300034: Marco Rossi_Top_Shoot_12
+    21300036: Marco Rossi_Top_Shoot_13
+    21300038: Marco Rossi_Top_Shoot_14
+    21300040: Marco Rossi_Top_Shoot_15
+    21300042: Marco Rossi_Top_Shoot_16
+    21300044: Marco Rossi_Top_Shoot_19
+    21300046: Marco Rossi_Top_LookUp_1
+    21300048: Marco Rossi_Top_LookUp_3
+    21300050: Marco Rossi_Top_LookUp_4
+    21300052: Marco Rossi_Top_ShootUp_1
+    21300054: Marco Rossi_Top_ShootUp_2
+    21300056: Marco Rossi_Top_ShootUp_3
+    21300058: Marco Rossi_Top_ShootUp_4
+    21300060: Marco Rossi_Top_ShootUp_7
+    21300062: Marco Rossi_Top_ShootUp_8
+    21300064: Marco Rossi_Top_ShootUp_9
+    21300066: Marco Rossi_Top_ShootUp_10
+    21300068: Marco Rossi_Top_ShootUp_11
+    21300070: Marco Rossi_Top_ShootUp_12
+    21300072: Marco Rossi_Top_ShootUp_13
+    21300074: Marco Rossi_Top_ShootUp_14
+    21300076: Marco Rossi_Top_ShootDown_1
+    21300078: Marco Rossi_Top_ShootDown_7
+    21300080: Marco Rossi_Top_Melee_1
+    21300082: Marco Rossi_Top_Melee_2
+    21300084: Marco Rossi_Top_Melee_6
+    21300086: Marco Rossi_Top_MeleeUp_1
+    21300088: Marco Rossi_Top_MeleeUp_3
+    21300090: Marco Rossi_Top_MeleeUp_5
+    21300092: Marco Rossi_Top_MeleeUp_6
+    21300094: Marco Rossi_Top_Throw_Genade_1
+    21300096: Marco Rossi_Top_Throw_Genade_2
+    21300098: Marco Rossi_Top_Throw_Genade_3
+    21300100: Marco Rossi_Top_Throw_Genade_4
+    21300102: Marco Rossi_project_52
+    21300104: Marco Rossi_Top_Reload_1
+    21300106: Marco Rossi_Top_Reload_2
+    21300108: Marco Rossi_Top_Reload_4
+    21300110: Marco Rossi_Top_Reload_5
+    21300112: Marco Rossi_Top_Reload_6
+    21300114: Marco Rossi_Top_Reload_7
+    21300116: Marco Rossi_Top_Reload_8
+    21300118: Marco Rossi_Top_Reload_9
+    21300120: Marco Rossi_Top_Reload_10
+    21300122: Marco Rossi_Top_Reload_13
+    21300124: Marco Rossi_Top_Reload_14
+    21300126: Marco Rossi_Top_Reload_15
+    21300128: Marco Rossi_Top_Reload_16
+    21300130: Marco Rossi_Top_Reload_17
+    21300132: Marco Rossi_Top_Reload_18
+    21300134: Marco Rossi_Top_Reload_19
+    21300136: Marco Rossi_project_69
+    21300138: Marco Rossi_project_70
+    21300140: Marco Rossi_project_71
+    21300142: Marco Rossi_project_72
+    21300144: Marco Rossi_project_73
+    21300146: Marco Rossi_project_74
+    21300148: Marco Rossi_project_75
+    21300150: Marco Rossi_project_76
+    21300152: Marco Rossi_project_77
+    21300154: Marco Rossi_project_78
+    21300156: Marco Rossi_project_79
+    21300158: Marco Rossi_project_80
+    21300160: Marco Rossi_project_81
+    21300162: Marco Rossi_project_82
+    21300164: Marco Rossi_project_83
+    21300166: Marco Rossi_project_84
+    21300168: Marco Rossi_project_85
+    21300170: Marco Rossi_project_86
+    21300172: Marco Rossi_project_87
+    21300174: Marco Rossi_project_88
+    21300176: Marco Rossi_project_89
+    21300178: Marco Rossi_project_90
+    21300180: Marco Rossi_project_91
+    21300182: Marco Rossi_project_92
+    21300184: Marco Rossi_project_93
+    21300186: Marco Rossi_project_94
+    21300188: Marco Rossi_project_95
+    21300190: Marco Rossi_project_96
+    21300192: Marco Rossi_project_97
+    21300194: Marco Rossi_project_98
+    21300196: Marco Rossi_project_99
+    21300198: Marco Rossi_project_100
+    21300200: Marco Rossi_project_101
+    21300202: Marco Rossi_project_102
+    21300204: Marco Rossi_project_103
+    21300206: Marco Rossi_project_104
+    21300208: Marco Rossi_project_105
+    21300210: Marco Rossi_project_106
+    21300212: Marco Rossi_project_107
+    21300214: Marco Rossi_project_108
+    21300216: Marco Rossi_project_109
+    21300218: Marco Rossi_project_110
+    21300220: Marco Rossi_project_111
+    21300222: Marco Rossi_project_112
+    21300224: Marco Rossi_project_113
+    21300226: Marco Rossi_project_114
+    21300228: Marco Rossi_project_115
+    21300230: Marco Rossi_project_116
+    21300232: Marco Rossi_project_117
+    21300234: Marco Rossi_project_118
+    21300236: Marco Rossi_project_119
+    21300238: Marco Rossi_project_120
+    21300240: Marco Rossi_project_121
+    21300242: Marco Rossi_project_122
+    21300244: Marco Rossi_project_123
+    21300246: Marco Rossi_project_124
+    21300248: Marco Rossi_project_125
+    21300250: Marco Rossi_project_126
+    21300252: Marco Rossi_project_127
+    21300254: Marco Rossi_project_128
+    21300256: Marco Rossi_project_129
+    21300258: Marco Rossi_project_130
+    21300260: Marco Rossi_project_131
+    21300262: Marco Rossi_project_132
+    21300264: Marco Rossi_project_133
+    21300266: Marco Rossi_project_134
+    21300268: Marco Rossi_project_135
+    21300270: Marco Rossi_project_136
+    21300272: Marco Rossi_project_137
+    21300274: Marco Rossi_project_138
+    21300276: Marco Rossi_project_139
+    21300278: Marco Rossi_project_140
+    21300280: Marco Rossi_project_141
+    21300282: Marco Rossi_project_142
+    21300284: Marco Rossi_project_143
+    21300286: Marco Rossi_project_144
+    21300288: Marco Rossi_project_145
+    21300290: Marco Rossi_project_146
+    21300292: Marco Rossi_project_147
+    21300294: Marco Rossi_project_148
+    21300296: Marco Rossi_project_149
+    21300298: Marco Rossi_project_150
+    21300300: Marco Rossi_project_151
+    21300302: Marco Rossi_project_152
+    21300304: Marco Rossi_project_153
+    21300306: Marco Rossi_project_154
+    21300308: Marco Rossi_project_155
+    21300310: Marco Rossi_project_156
+    21300312: Marco Rossi_project_157
+    21300314: Marco Rossi_project_158
+    21300316: Marco Rossi_project_159
+    21300318: Marco Rossi_project_160
+    21300320: Marco Rossi_project_161
+    21300322: Marco Rossi_project_162
+    21300324: Marco Rossi_project_163
+    21300326: Marco Rossi_project_164
+    21300328: Marco Rossi_project_165
+    21300330: Marco Rossi_project_166
+    21300332: Marco Rossi_project_167
+    21300334: Marco Rossi_project_168
+    21300336: Marco Rossi_project_169
+    21300338: Marco Rossi_project_170
+    21300340: Marco Rossi_project_171
+    21300342: Marco Rossi_project_172
+    21300344: Marco Rossi_project_173
+    21300346: Marco Rossi_project_174
+    21300348: Marco Rossi_project_175
+    21300350: Marco Rossi_project_176
+    21300352: Marco Rossi_project_177
+    21300354: Marco Rossi_project_178
+    21300356: Marco Rossi_project_179
+    21300358: Marco Rossi_project_180
+    21300360: Marco Rossi_project_181
+    21300362: Marco Rossi_project_182
+    21300364: Marco Rossi_project_183
+    21300366: Marco Rossi_project_184
+    21300368: Marco Rossi_project_185
+    21300370: Marco Rossi_project_186
+    21300372: Marco Rossi_project_187
+    21300374: Marco Rossi_project_188
+    21300376: Marco Rossi_project_189
+    21300378: Marco Rossi_project_190
+    21300380: Marco Rossi_project_191
+    21300382: Marco Rossi_project_192
+    21300384: Marco Rossi_project_193
+    21300386: Marco Rossi_project_194
+    21300388: Marco Rossi_project_195
+    21300390: Marco Rossi_project_196
+    21300392: Marco Rossi_project_197
+    21300394: Marco Rossi_project_198
+    21300396: Marco Rossi_project_199
+    21300398: Marco Rossi_project_200
+    21300400: Marco Rossi_project_201
+    21300402: Marco Rossi_project_202
+    21300404: Marco Rossi_project_203
+    21300406: Marco Rossi_project_204
+    21300408: Marco Rossi_project_205
+    21300410: Marco Rossi_project_206
+    21300412: Marco Rossi_project_207
+    21300414: Marco Rossi_project_208
+    21300416: Marco Rossi_project_209
+    21300418: Marco Rossi_project_210
+    21300420: Marco Rossi_project_211
+    21300422: Marco Rossi_project_212
+    21300424: Marco Rossi_project_213
+    21300426: Marco Rossi_project_214
+    21300428: Marco Rossi_project_215
+    21300430: Marco Rossi_project_216
+    21300432: Marco Rossi_project_217
+    21300434: Marco Rossi_project_218
+    21300436: Marco Rossi_project_219
+    21300438: Marco Rossi_project_220
+    21300440: Marco Rossi_project_221
+    21300442: Marco Rossi_project_222
+    21300444: Marco Rossi_project_223
+    21300446: Marco Rossi_project_224
+    21300448: Marco Rossi_project_225
+    21300450: Marco Rossi_project_226
+    21300452: Marco Rossi_project_227
+    21300454: Marco Rossi_project_228
+    21300456: Marco Rossi_project_229
+    21300458: Marco Rossi_project_230
+    21300460: Marco Rossi_project_231
+    21300462: Marco Rossi_project_232
+    21300464: Marco Rossi_project_233
+    21300466: Marco Rossi_project_234
+    21300468: Marco Rossi_project_235
+    21300470: Marco Rossi_project_236
+    21300472: Marco Rossi_project_237
+    21300474: Marco Rossi_project_238
+    21300476: Marco Rossi_project_239
+    21300478: Marco Rossi_project_240
+    21300480: Marco Rossi_project_241
+    21300482: Marco Rossi_project_242
+    21300484: Marco Rossi_project_243
+    21300486: Marco Rossi_project_244
+    21300488: Marco Rossi_project_245
+    21300490: Marco Rossi_project_246
+    21300492: Marco Rossi_project_247
+    21300494: Marco Rossi_project_248
+    21300496: Marco Rossi_project_249
+    21300498: Marco Rossi_project_250
+    21300500: Marco Rossi_project_251
+    21300502: Marco Rossi_project_252
+    21300504: Marco Rossi_project_253
+    21300506: Marco Rossi_project_254
+    21300508: Marco Rossi_project_255
+    21300510: Marco Rossi_project_256
+    21300512: Marco Rossi_project_257
+    21300514: Marco Rossi_project_258
+    21300516: Marco Rossi_project_259
+    21300518: Marco Rossi_project_260
+    21300520: Marco Rossi_project_261
+    21300522: Marco Rossi_project_262
+    21300524: Marco Rossi_project_263
+    21300526: Marco Rossi_project_264
+    21300528: Marco Rossi_project_265
+    21300530: Marco Rossi_project_266
+    21300532: Marco Rossi_project_267
+    21300534: Marco Rossi_project_268
+    21300536: Marco Rossi_project_269
+    21300538: Marco Rossi_project_270
+    21300540: Marco Rossi_project_271
+    21300542: Marco Rossi_project_272
+    21300544: Marco Rossi_project_273
+    21300546: Marco Rossi_project_274
+    21300548: Marco Rossi_project_275
+    21300550: Marco Rossi_project_276
+    21300552: Marco Rossi_project_277
+    21300554: Marco Rossi_project_278
+    21300556: Marco Rossi_project_279
+    21300558: Marco Rossi_project_280
+    21300560: Marco Rossi_project_281
+    21300562: Marco Rossi_project_282
+    21300564: Marco Rossi_project_283
+    21300566: Marco Rossi_project_284
+    21300568: Marco Rossi_project_285
+    21300570: Marco Rossi_project_286
+    21300572: Marco Rossi_project_287
+    21300574: Marco Rossi_project_288
+    21300576: Marco Rossi_project_289
+    21300578: Marco Rossi_project_290
+    21300580: Marco Rossi_project_291
+    21300582: Marco Rossi_project_292
+    21300584: Marco Rossi_project_293
+    21300586: Marco Rossi_project_294
+    21300588: Marco Rossi_project_295
+    21300590: Marco Rossi_project_296
+    21300592: Marco Rossi_project_297
+    21300594: Marco Rossi_project_298
+    21300596: Marco Rossi_project_299
+    21300598: Marco Rossi_project_300
+    21300600: Marco Rossi_project_301
+    21300602: Marco Rossi_project_302
+    21300604: Marco Rossi_project_303
+    21300606: Marco Rossi_project_304
+    21300608: Marco Rossi_project_305
+    21300610: Marco Rossi_project_306
+    21300612: Marco Rossi_project_307
+    21300614: Marco Rossi_project_308
+    21300616: Marco Rossi_project_309
+    21300618: Marco Rossi_project_310
+    21300620: Marco Rossi_project_311
+    21300622: Marco Rossi_project_312
+    21300624: Marco Rossi_project_313
+    21300626: Marco Rossi_project_314
+    21300628: Marco Rossi_project_315
+    21300630: Marco Rossi_project_316
+    21300632: Marco Rossi_project_317
+    21300634: Marco Rossi_project_318
+    21300636: Marco Rossi_project_319
+    21300638: Marco Rossi_project_320
+    21300640: Marco Rossi_project_321
+    21300642: Marco Rossi_project_322
+    21300644: Marco Rossi_project_323
+    21300646: Marco Rossi_project_324
+    21300648: Marco Rossi_project_325
+    21300650: Marco Rossi_project_326
+    21300652: Marco Rossi_project_327
+    21300654: Marco Rossi_project_328
+    21300656: Marco Rossi_project_329
+    21300658: Marco Rossi_project_330
+    21300660: Marco Rossi_project_331
+    21300662: Marco Rossi_project_332
+    21300664: Marco Rossi_project_333
+    21300666: Marco Rossi_project_334
+    21300668: Marco Rossi_project_335
+    21300670: Marco Rossi_project_336
+    21300672: Marco Rossi_project_337
+    21300674: Marco Rossi_project_338
+    21300676: Marco Rossi_project_339
+    21300678: Marco Rossi_project_340
+    21300680: Marco Rossi_project_341
+    21300682: Marco Rossi_project_342
+    21300684: Marco Rossi_project_343
+    21300686: Marco Rossi_project_344
+    21300688: Marco Rossi_project_345
+    21300690: Marco Rossi_project_346
+    21300692: Marco Rossi_project_347
+    21300694: Marco Rossi_project_348
+    21300696: Marco Rossi_project_349
+    21300698: Marco Rossi_project_350
+    21300700: Marco Rossi_Top_ShootDown_2
+    21300702: Marco Rossi_Top_ShootDown_3
+    21300704: Marco Rossi_Top_ShootDown_4
+    21300706: Marco Rossi_Top_ShootDown_5
+    21300708: Marco Rossi_Top_ShootDown_6
+    21300710: Marco Rossi_Top_Melee_3
+    21300712: Marco Rossi_Top_Melee_4
+    21300714: Marco Rossi_Top_Melee_5
+    21300716: Marco Rossi_Top_MeleeUp_2
+    21300718: Marco Rossi_Top_MeleeUp_4
+    21300720: Marco Rossi_project_360
+    21300722: Marco Rossi_Top_Shoot_17
+    21300724: Marco Rossi_Top_Shoot_18
+    21300726: Marco Rossi_Top_Shoot_20
+    21300728: Marco Rossi_Top_LookUp_2
+    21300730: Marco Rossi_Top_Reload_3
+    21300732: Marco Rossi_Top_Reload_11
+    21300734: Marco Rossi_Top_Reload_12
+    21300736: Marco Rossi_project_368
+    21300738: Marco Rossi_project_369
+    21300740: Marco Rossi_project_370
+    21300742: Marco Rossi_project_371
+    21300744: Marco Rossi_project_372
+    21300746: Marco Rossi_project_373
+    21300748: Marco Rossi_project_374
+    21300750: Marco Rossi_project_375
+    21300752: Marco Rossi_project_376
+    21300754: Marco Rossi_project_377
+    21300756: Marco Rossi_project_378
+    21300758: Marco Rossi_project_379
+    21300760: Marco Rossi_project_380
+    21300762: Marco Rossi_project_381
+    21300764: Marco Rossi_project_382
+    21300766: Marco Rossi_project_383
+    21300768: Marco Rossi_project_384
+    21300770: Marco Rossi_project_385
+    21300772: Marco Rossi_project_386
+    21300774: Marco Rossi_project_387
+    21300776: Marco Rossi_project_388
+    21300778: Marco Rossi_project_389
+    21300780: Marco Rossi_project_390
+    21300782: Marco Rossi_project_391
+    21300784: Marco Rossi_project_392
+    21300786: Marco Rossi_project_393
+    21300788: Marco Rossi_project_394
+    21300790: Marco Rossi_project_395
+    21300792: Marco Rossi_project_396
+    21300794: Marco Rossi_project_397
+    21300796: Marco Rossi_project_398
+    21300798: Marco Rossi_project_399
+    21300800: Marco Rossi_project_400
+    21300802: Marco Rossi_project_401
+    21300804: Marco Rossi_project_402
+    21300806: Marco Rossi_project_403
+    21300808: Marco Rossi_project_404
+    21300810: Marco Rossi_project_405
+    21300812: Marco Rossi_project_406
+    21300814: Marco Rossi_project_407
+    21300816: Marco Rossi_project_408
+    21300818: Marco Rossi_project_409
+    21300820: Marco Rossi_project_410
+    21300822: Marco Rossi_project_411
+    21300824: Marco Rossi_project_412
+    21300826: Marco Rossi_project_413
+    21300828: Marco Rossi_project_414
+    21300830: Marco Rossi_project_415
+    21300832: Marco Rossi_project_416
+    21300834: Marco Rossi_project_417
+    21300836: Marco Rossi_project_418
+    21300838: Marco Rossi_project_419
+    21300840: Marco Rossi_project_420
+    21300842: Marco Rossi_project_421
+    21300844: Marco Rossi_project_422
+    21300846: Marco Rossi_project_423
+    21300848: Marco Rossi_project_424
+    21300850: Marco Rossi_project_425
+    21300852: Marco Rossi_project_426
+    21300854: Marco Rossi_project_427
+    21300856: Marco Rossi_project_428
+    21300858: Marco Rossi_project_429
+    21300860: Marco Rossi_project_430
+    21300862: Marco Rossi_project_431
+    21300864: Marco Rossi_project_432
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1789
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1789
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1791
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1793
+        width: 112
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_5
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1640
+        width: 83
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_6
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1637
+        width: 81
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_1
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1807
+        width: 173
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_2
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1809
+        width: 177
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1809
+        width: 181
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_4
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 1809
+        width: 130
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_5
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 1809
+        width: 131
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_6
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1809
+        width: 132
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_7
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 1809
+        width: 132
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_8
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1797
+        width: 120
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_9
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1794
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_10
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1797
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_11
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 1809
+        width: 166
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_12
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1809
+        width: 170
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_13
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 1809
+        width: 172
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_14
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1809
+        width: 123
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_15
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 1809
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_16
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 1797
+        width: 125
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_19
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1797
+        width: 110
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_LookUp_1
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 1806
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_LookUp_3
+      rect:
+        serializedVersion: 2
+        x: 3824
+        y: 1807
+        width: 104
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_LookUp_4
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 1808
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1637
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1632
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1634
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1634
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1630
+        width: 82
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_8
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1634
+        width: 81
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1635
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_10
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1635
+        width: 90
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1636
+        width: 89
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1636
+        width: 96
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_13
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1634
+        width: 94
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootUp_14
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1632
+        width: 104
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootDown_1
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1659
+        width: 72
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootDown_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1673
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Melee_1
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1631
+        width: 89
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Melee_2
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 1632
+        width: 83
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Melee_6
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 1642
+        width: 165
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_MeleeUp_1
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1636
+        width: 72
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_MeleeUp_3
+      rect:
+        serializedVersion: 2
+        x: 2878
+        y: 1626
+        width: 139
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_MeleeUp_5
+      rect:
+        serializedVersion: 2
+        x: 3165
+        y: 1633
+        width: 150
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_MeleeUp_6
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 1633
+        width: 152
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Throw_Genade_1
+      rect:
+        serializedVersion: 2
+        x: 3479
+        y: 1636
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Throw_Genade_2
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 1639
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Throw_Genade_3
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 1637
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Throw_Genade_4
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 1637
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1468
+        width: 116
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1466
+        width: 119
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1488
+        width: 127
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_5
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1470
+        width: 119
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1463
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_7
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1457
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_8
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1457
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1439
+        width: 123
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_10
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1468
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_13
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1486
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_14
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 1489
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_15
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 1489
+        width: 135
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_16
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1489
+        width: 132
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_17
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1489
+        width: 139
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_18
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1489
+        width: 142
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_19
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 1486
+        width: 133
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_69
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 1485
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_70
+      rect:
+        serializedVersion: 2
+        x: 2657
+        y: 1485
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_71
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1486
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_72
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 1486
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_73
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 1489
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_74
+      rect:
+        serializedVersion: 2
+        x: 3099
+        y: 1489
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_75
+      rect:
+        serializedVersion: 2
+        x: 3218
+        y: 1502
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_77
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 1498
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_78
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 1508
+        width: 123
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_82
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1321
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_83
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1321
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_84
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1322
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_85
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1322
+        width: 96
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_86
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1323
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_87
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1319
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_88
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1317
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_89
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1317
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_90
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1321
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_91
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1322
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_92
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1319
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_93
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1321
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_94
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1305
+        width: 89
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_95
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1309
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_96
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 1297
+        width: 104
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_97
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1317
+        width: 166
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_98
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1341
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_99
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1345
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_100
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 1338
+        width: 101
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_101
+      rect:
+        serializedVersion: 2
+        x: 2603
+        y: 1314
+        width: 111
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_102
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1314
+        width: 85
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_103
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 1325
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_104
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 1321
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_105
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1321
+        width: 104
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_106
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 1313
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_107
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 1321
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_108
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 1325
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_109
+      rect:
+        serializedVersion: 2
+        x: 3873
+        y: 1312
+        width: 104
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_110
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 1310
+        width: 105
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_111
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1177
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_112
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1169
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_113
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1162
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_114
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1157
+        width: 97
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_115
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1157
+        width: 103
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_116
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1165
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_117
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1177
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_118
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1177
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_119
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1177
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_120
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1177
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_121
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1177
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_122
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1170
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_123
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 1157
+        width: 106
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_124
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 1157
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_125
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1162
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_126
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1170
+        width: 102
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_127
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 1166
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_128
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 1166
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_129
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 1166
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_130
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1166
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_131
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 1170
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_132
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 1166
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_133
+      rect:
+        serializedVersion: 2
+        x: 2638
+        y: 1170
+        width: 109
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_134
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1166
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_135
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 1169
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_136
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1174
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_137
+      rect:
+        serializedVersion: 2
+        x: 3083
+        y: 1170
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_138
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1174
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_139
+      rect:
+        serializedVersion: 2
+        x: 3307
+        y: 1170
+        width: 106
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_140
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 1166
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_141
+      rect:
+        serializedVersion: 2
+        x: 3521
+        y: 1170
+        width: 107
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_142
+      rect:
+        serializedVersion: 2
+        x: 3625
+        y: 1166
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_143
+      rect:
+        serializedVersion: 2
+        x: 3761
+        y: 1169
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_144
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1033
+        width: 104
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_145
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1034
+        width: 101
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_146
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1030
+        width: 93
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_147
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1017
+        width: 92
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_148
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1019
+        width: 100
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_149
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1019
+        width: 103
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_150
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1019
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_151
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1014
+        width: 105
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_152
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1014
+        width: 104
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_153
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1014
+        width: 104
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_154
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1014
+        width: 112
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_155
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 1014
+        width: 112
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_156
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1014
+        width: 112
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_157
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1015
+        width: 114
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_158
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1015
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_159
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1014
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_160
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1014
+        width: 119
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_161
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1014
+        width: 120
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_162
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1015
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_163
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 1015
+        width: 122
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_164
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 1015
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_165
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 1014
+        width: 120
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_166
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1015
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_167
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1015
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_168
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 1014
+        width: 124
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_169
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1014
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_170
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 1015
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_171
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 1016
+        width: 92
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_172
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1014
+        width: 94
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_173
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 1015
+        width: 140
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_174
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 1015
+        width: 167
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_175
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 879
+        width: 146
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_176
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 880
+        width: 145
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_177
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 879
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_178
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 879
+        width: 111
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_179
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 879
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_180
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 879
+        width: 164
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_181
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 879
+        width: 185
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_182
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 879
+        width: 188
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_183
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 879
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_184
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 879
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_185
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 879
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_186
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 878
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_187
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 878
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_188
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 879
+        width: 134
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_189
+      rect:
+        serializedVersion: 2
+        x: 2205
+        y: 879
+        width: 173
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_190
+      rect:
+        serializedVersion: 2
+        x: 2380
+        y: 878
+        width: 174
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_191
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 879
+        width: 178
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_192
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 879
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_193
+      rect:
+        serializedVersion: 2
+        x: 2860
+        y: 879
+        width: 131
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_194
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 878
+        width: 128
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_195
+      rect:
+        serializedVersion: 2
+        x: 3120
+        y: 879
+        width: 125
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_196
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 880
+        width: 118
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_197
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 880
+        width: 114
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_198
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 879
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_199
+      rect:
+        serializedVersion: 2
+        x: 3708
+        y: 879
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_200
+      rect:
+        serializedVersion: 2
+        x: 3820
+        y: 878
+        width: 108
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_201
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 879
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_202
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 571
+        width: 104
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_203
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 572
+        width: 104
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_204
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 572
+        width: 120
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_205
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 727
+        width: 115
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_206
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 727
+        width: 113
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_207
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 727
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_208
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 727
+        width: 141
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_209
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 727
+        width: 126
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_210
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 727
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_211
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 727
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_212
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 727
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_213
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 727
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_214
+      rect:
+        serializedVersion: 2
+        x: 1837
+        y: 727
+        width: 130
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_215
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 727
+        width: 143
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_216
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 727
+        width: 140
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_217
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 727
+        width: 124
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_218
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 731
+        width: 116
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_219
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 731
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_220
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 731
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_221
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 731
+        width: 170
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_222
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 731
+        width: 167
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_223
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 731
+        width: 145
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_225
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 572
+        width: 117
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_227
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 570
+        width: 113
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_229
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 570
+        width: 109
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_230
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 571
+        width: 115
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_231
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 571
+        width: 159
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_232
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 571
+        width: 193
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_233
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 571
+        width: 205
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_234
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 571
+        width: 206
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_235
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 571
+        width: 208
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_236
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 571
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_237
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 571
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_238
+      rect:
+        serializedVersion: 2
+        x: 3568
+        y: 571
+        width: 129
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_239
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 571
+        width: 101
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_240
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 571
+        width: 147
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_241
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 571
+        width: 198
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_242
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 571
+        width: 166
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_243
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 571
+        width: 152
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_244
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 571
+        width: 154
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_245
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 571
+        width: 156
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_246
+      rect:
+        serializedVersion: 2
+        x: 3413
+        y: 571
+        width: 150
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_247
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 407
+        width: 86
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_248
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 407
+        width: 104
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_249
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 407
+        width: 99
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_250
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 407
+        width: 104
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_251
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 407
+        width: 109
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_252
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 407
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_253
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 407
+        width: 126
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_254
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 406
+        width: 127
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_255
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 409
+        width: 105
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_256
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 407
+        width: 104
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_257
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 406
+        width: 108
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_258
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 406
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_259
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 406
+        width: 89
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_260
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 407
+        width: 85
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_261
+      rect:
+        serializedVersion: 2
+        x: 2794
+        y: 407
+        width: 125
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_262
+      rect:
+        serializedVersion: 2
+        x: 2917
+        y: 407
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_263
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 407
+        width: 129
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_264
+      rect:
+        serializedVersion: 2
+        x: 3174
+        y: 406
+        width: 138
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_265
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 407
+        width: 143
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_266
+      rect:
+        serializedVersion: 2
+        x: 3452
+        y: 407
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_267
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 408
+        width: 120
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_274
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 79
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_275
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 249
+        width: 73
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_276
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 249
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_277
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 249
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_278
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 249
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_279
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 249
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_280
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 249
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_281
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 249
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_282
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 249
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_283
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 249
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_284
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 249
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_285
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 249
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_286
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 249
+        width: 88
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_287
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 249
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_288
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 249
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_289
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 249
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_290
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 249
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_291
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 249
+        width: 78
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_292
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 249
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_293
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 249
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_294
+      rect:
+        serializedVersion: 2
+        x: 2031
+        y: 249
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_295
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 249
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_296
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 267
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_297
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 259
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_298
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 271
+        width: 115
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_299
+      rect:
+        serializedVersion: 2
+        x: 2852
+        y: 275
+        width: 105
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_300
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 271
+        width: 94
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_312
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 79
+        width: 115
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_313
+      rect:
+        serializedVersion: 2
+        x: 3272
+        y: 79
+        width: 96
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_314
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 79
+        width: 123
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_315
+      rect:
+        serializedVersion: 2
+        x: 3827
+        y: 79
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_316
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_317
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 87
+        width: 92
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_318
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 87
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_319
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 87
+        width: 95
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_320
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 87
+        width: 94
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_321
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 83
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_322
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 87
+        width: 81
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_323
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 84
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_324
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 75
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_325
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 75
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_326
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 79
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_327
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 75
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_328
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 75
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_329
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 87
+        width: 86
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_330
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 87
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_331
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 87
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_332
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 83
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_333
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 87
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_334
+      rect:
+        serializedVersion: 2
+        x: 2455
+        y: 83
+        width: 85
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_335
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 79
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_336
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 79
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_337
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 79
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_338
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 79
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_339
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 79
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_340
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 79
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_341
+      rect:
+        serializedVersion: 2
+        x: 2987
+        y: 79
+        width: 81
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_342
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 79
+        width: 93
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_343
+      rect:
+        serializedVersion: 2
+        x: 3366
+        y: 79
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_344
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 79
+        width: 87
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_345
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 79
+        width: 84
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootDown_2
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 1609
+        width: 70
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootDown_3
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 1605
+        width: 68
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootDown_4
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1599
+        width: 66
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootDown_5
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1681
+        width: 75
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_ShootDown_6
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1681
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Melee_3
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 1637
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Melee_4
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 1644
+        width: 140
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Melee_5
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 1647
+        width: 162
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_MeleeUp_2
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 1634
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_MeleeUp_4
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1628
+        width: 140
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_360
+      rect:
+        serializedVersion: 2
+        x: 3929
+        y: 1640
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_17
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 1804
+        width: 124
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_18
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1800
+        width: 113
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Shoot_20
+      rect:
+        serializedVersion: 2
+        x: 3449
+        y: 1797
+        width: 107
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_LookUp_2
+      rect:
+        serializedVersion: 2
+        x: 3709
+        y: 1805
+        width: 107
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1471
+        width: 120
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1468
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_Top_Reload_12
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1485
+        width: 117
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_368
+      rect:
+        serializedVersion: 2
+        x: 3311
+        y: 1492
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_369
+      rect:
+        serializedVersion: 2
+        x: 3407
+        y: 1493
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_370
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1498
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_371
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1467
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_372
+      rect:
+        serializedVersion: 2
+        x: 3830
+        y: 1471
+        width: 88
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_373
+      rect:
+        serializedVersion: 2
+        x: 2013
+        y: 1339
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_374
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 1340
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_375
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1338
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_376
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1316
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_377
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 1314
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_378
+      rect:
+        serializedVersion: 2
+        x: 2719
+        y: 1306
+        width: 93
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_379
+      rect:
+        serializedVersion: 2
+        x: 3534
+        y: 1320
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_380
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1318
+        width: 114
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_381
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 1312
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_382
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1169
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_383
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 1156
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_384
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1017
+        width: 90
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_385
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 1013
+        width: 161
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_386
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 881
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_387
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 881
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_388
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 881
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_389
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 881
+        width: 116
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_390
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 731
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_391
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 729
+        width: 126
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_392
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 731
+        width: 121
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_393
+      rect:
+        serializedVersion: 2
+        x: 2947
+        y: 729
+        width: 140
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_394
+      rect:
+        serializedVersion: 2
+        x: 3092
+        y: 732
+        width: 159
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_395
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 730
+        width: 141
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_396
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 571
+        width: 120
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_397
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 572
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_398
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 571
+        width: 129
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_399
+      rect:
+        serializedVersion: 2
+        x: 3832
+        y: 571
+        width: 131
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_400
+      rect:
+        serializedVersion: 2
+        x: 3966
+        y: 572
+        width: 127
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_401
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 405
+        width: 97
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_402
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 403
+        width: 115
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_403
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 406
+        width: 107
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_404
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 410
+        width: 116
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_405
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 406
+        width: 127
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_406
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 408
+        width: 124
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_407
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 251
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_408
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 252
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_409
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 253
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_410
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 254
+        width: 106
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_411
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 251
+        width: 92
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_412
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 259
+        width: 106
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_413
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 252
+        width: 67
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_414
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 250
+        width: 69
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_415
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 259
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_416
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 269
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_417
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 264
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_418
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 270
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_419
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 91
+        width: 87
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_420
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 90
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_421
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 84
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_422
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 85
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_423
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 84
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_424
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 83
+        width: 90
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_425
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 92
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_426
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 84
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_427
+      rect:
+        serializedVersion: 2
+        x: 2089
+        y: 83
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_428
+      rect:
+        serializedVersion: 2
+        x: 2156
+        y: 83
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_429
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 84
+        width: 60
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_430
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 90
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_431
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 80
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Marco Rossi_project_432
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 80
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
