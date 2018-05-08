@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Bullet : MonoBehaviour {
+public class Bullet : DamageEffector {
 
     public float speed = 10f;
-    public int damage = 1;
     public float destroyTime = 1.5f;
 
 	// Use this for initialization
 	void Start () {
+        damage = 1;
         Destroy(gameObject, destroyTime);
 	}
 	
@@ -18,10 +18,8 @@ public class Bullet : MonoBehaviour {
         transform.Translate(Vector3.right * speed * Time.deltaTime);
 	}
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    protected override void AfterTriggerEnter()
     {
-        collision.gameObject.SendMessage("TakeDamageEffect", this, SendMessageOptions.DontRequireReceiver);
-
-        Destroy(gameObject);
+            Destroy(gameObject);
     }
 }
