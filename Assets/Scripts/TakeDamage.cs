@@ -14,13 +14,13 @@ public class TakeDamage : MonoBehaviour {
         sprite = GetComponent<SpriteRenderer>();
     }
 
-    private void TakeDamageEffect( Bullet bullet)
+    private void TakeDamageEffect( DamageEffector effector)
     {
 
-        Debug.Log(bullet);
-        if (bullet.CompareTag(effectorTag))
+        Debug.Log(effector);
+        if (effector.CompareTag(effectorTag))
         {
-            TookDamage(bullet.damage);
+            TookDamage(effector.damage);
         }
     }
 

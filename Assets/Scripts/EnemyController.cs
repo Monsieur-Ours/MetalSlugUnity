@@ -25,17 +25,24 @@ public class EnemyController : MonoBehaviour {
 	
 	// Update is called once per frame
 	protected virtual void Update () {
+        if (target)
+        {
             targetDistance = transform.position.x - target.position.x;        
+        }
     }
 
     protected void FixedUpdate()
     {
-        if(transform.position.x > target.position.x && facingRight)
+        if (target)
         {
-            Flip();
-        } else if ( transform.position.x < target.position.x && !facingRight)
-        {
-            Flip();
+            if (transform.position.x > target.position.x && facingRight)
+            {
+                Flip();
+            }
+            else if (transform.position.x < target.position.x && !facingRight)
+            {
+                Flip();
+            }
         }
     }
 

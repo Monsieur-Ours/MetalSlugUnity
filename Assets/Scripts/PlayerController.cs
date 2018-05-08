@@ -75,7 +75,12 @@ public class PlayerController : MonoBehaviour {
                 }
             }
 
-            if(Input.GetAxisRaw("Vertical") > 0)
+            if (Input.GetButtonDown("Melee"))
+            {
+                anim.SetTrigger("Melee");
+            }
+
+            if (Input.GetAxisRaw("Vertical") > 0)
             {
                 lookingUp = true;
             }
@@ -106,7 +111,6 @@ public class PlayerController : MonoBehaviour {
         {
             anim.SetTrigger("Death");
             Debug.Log("You're dead");
-            gameObject.SetActive(false);
         }
 	}
 
@@ -152,7 +156,13 @@ public class PlayerController : MonoBehaviour {
     {
         if(health <= 0)
         {
+            Debug.Log("Player Health at 0");
             isDead = true;
         }
+    }
+
+    void DestroyObject()
+    {
+        Destroy(gameObject);
     }
 }
