@@ -26,6 +26,21 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!1 &1186741188052308
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4558000071782318}
+  m_Layer: 9
+  m_Name: handGrip
+  m_TagString: Untagged
+  m_Icon: {fileID: -1577725955494882426, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
 --- !u!1 &1278788243980882
 GameObject:
   m_ObjectHideFlags: 0
@@ -36,8 +51,8 @@ GameObject:
   - component: {fileID: 4172567528965486}
   - component: {fileID: 61353402791691176}
   - component: {fileID: 114439622547261814}
-  m_Layer: 10
-  m_Name: knife
+  m_Layer: 9
+  m_Name: Knife
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -103,7 +118,7 @@ GameObject:
   - component: {fileID: 114499288653097006}
   - component: {fileID: 95611232749493032}
   - component: {fileID: 212275940534209494}
-  - component: {fileID: 114276796495034836}
+  - component: {fileID: 114274320243780992}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -144,7 +159,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1979567054032818}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.36, y: -1.2161305, z: 0}
+  m_LocalPosition: {x: -5.45, y: -1.39, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4027741389624180}
@@ -152,6 +167,7 @@ Transform:
   - {fileID: 4834569775173884}
   - {fileID: 4339295814423848}
   - {fileID: 4172567528965486}
+  - {fileID: 4558000071782318}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -167,6 +183,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 4233170131426828}
   m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4558000071782318
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1186741188052308}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.31, y: 0.48, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4233170131426828}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4640893596261604
 Transform:
@@ -271,7 +300,7 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
---- !u!114 &114276796495034836
+--- !u!114 &114274320243780992
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -279,11 +308,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 1979567054032818}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 035acd8878f5dcb418db5a066e81138e, type: 3}
+  m_Script: {fileID: 11500000, guid: 9a0968f18722e9c4da8c681271832e99, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   effectorTag: Enemy
-  health: 10
+  maxHealth: 10
+  healthBar: {fileID: 0}
 --- !u!114 &114439622547261814
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -312,6 +342,9 @@ MonoBehaviour:
   bulletPrefab: {fileID: 1932692683474712, guid: 481a04e955dba974293ff935bf8d97d7,
     type: 2}
   gunTip: {fileID: 4339295814423848}
+  grenadePrefab: {fileID: 1542565566178180, guid: e33322f21d888674e86798f8aa4f8c39,
+    type: 2}
+  handGrip: {fileID: 4558000071782318}
 --- !u!212 &212099402131788602
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -439,7 +472,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.16, y: 1.07}
+  m_Size: {x: 2.62, y: 2.7}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0
