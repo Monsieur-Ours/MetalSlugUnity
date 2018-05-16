@@ -4,16 +4,26 @@ using UnityEngine;
 
 public class Soldier : EnemyController {
 
+    // Shooting speed
     private float fireRate = 1f;
     private float nextFire = 0f;
+   
+    // Throwing grenades speed
+    private float nextGrenade = 0f;
+    private float grenadeRate = 50f;
+
     private Animator anim;
 
     public float meleeDistance;
+
     public GameObject bulletPrefab;
     public Transform gunTip;
 
-    private bool isDead = false;
+    public GameObject grenadePrefab;
+    public Transform handGrip;
 
+    private bool isDead = false;
+    private bool isThrowingGrenade = false;
 
     // Use this for initialization
     void Start () {
@@ -28,25 +38,50 @@ public class Soldier : EnemyController {
             {
                 base.Update();
 
+                //If too far run to player
                 if (Mathf.Abs(targetDistance) < viewDistance && Mathf.Abs(targetDistance) > attackDistance && Mathf.Abs(targetDistance) > meleeDistance)
                 {
                     anim.SetFloat("Speed", speed);
                     transform.position = Vector3.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
                 }
-                else if(Mathf.Abs(targetDistance) <= attackDistance && Time.time > nextFire && Mathf.Abs(targetDistance) > meleeDistance)
+                // If at attack distance but not melee, shoot or throw a grenade
+                else if(Mathf.Abs(targetDistance) <= attackDistance && Mathf.Abs(targetDistance) > meleeDistance)
                 {
-                    nextFire = Time.time + fireRate;
-                    anim.SetFloat("Speed", 0);
-                    anim.SetTrigger("Shoot");
+                    if ( Time.time > nextFire && !isThrowingGrenade)
+                    {
+                        if (Time.time > nextGrenade)
+                        {
+                            isThrowingGrenade = true;
+                            nextGrenade = Time.time + grenadeRate;
+                            anim.SetTrigger("Grenade");
+                            if (facingRight)
+                            {
+                                GameObject tempGrenade = Instantiate(grenadePrefab, handGrip.position, handGrip.rotation);
+                                isThrowingGrenade = false;
+                            }
+                            else if (!facingRight)
+                            {
+                                GameObject tempGrenade = Instantiate(grenadePrefab, handGrip.position, handGrip.rotation);
+                                tempGrenade.transform.eulerAngles = new Vector3(0, 0, 180f);
+                                isThrowingGrenade = false;
+                            }
+                        }
+                        else
+                        {
+                            nextFire = Time.time + fireRate;
+                            anim.SetFloat("Speed", 0);
+                            anim.SetTrigger("Shoot");
 
-                    if (facingRight)
-                    {
-                        GameObject tempBullet = Instantiate(bulletPrefab, gunTip.position, gunTip.rotation);
-                    }
-                    else if (!facingRight)
-                    {
-                        GameObject tempBullet = Instantiate(bulletPrefab, gunTip.position, gunTip.rotation);
-                        tempBullet.transform.eulerAngles = new Vector3(0, 0, 180f);
+                            if (facingRight)
+                            {
+                                GameObject tempBullet = Instantiate(bulletPrefab, gunTip.position, gunTip.rotation);
+                            }
+                            else if (!facingRight)
+                            {
+                                GameObject tempBullet = Instantiate(bulletPrefab, gunTip.position, gunTip.rotation);
+                                tempBullet.transform.eulerAngles = new Vector3(0, 0, 180f);
+                            }
+                        }
                     }
                 }
                 else if (Mathf.Abs(targetDistance) <= meleeDistance) 

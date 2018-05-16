@@ -9,6 +9,9 @@ public class PlayerController : MonoBehaviour {
     public GameObject bulletPrefab;
     public Transform gunTip;
 
+    public GameObject grenadePrefab;
+    public Transform  handGrip;
+
     private Animator anim;
     private Rigidbody2D rb2d;
     private bool facingRight = true;
@@ -21,6 +24,7 @@ public class PlayerController : MonoBehaviour {
     private bool reloading;
     private float fireRate = 0.1f;
     private float nextFire = 0f;
+    private float grenadeRate = 0.5f;
 
     private bool isDead = false;
 
@@ -78,6 +82,17 @@ public class PlayerController : MonoBehaviour {
             if (Input.GetButtonDown("Melee"))
             {
                 anim.SetTrigger("Melee");
+            }
+
+            if(Input.GetButtonDown("Throw Grenade") && Time.time > nextFire)
+            {
+                nextFire = Time.time + grenadeRate;
+                anim.SetTrigger("Grenade");
+                GameObject tempGrenade = Instantiate(grenadePrefab, handGrip.position, handGrip.rotation);
+                if (!facingRight && !lookingUp)
+                {
+                    tempGrenade.transform.eulerAngles = new Vector3(0, 0, 180f);
+                }
             }
 
             if (Input.GetAxisRaw("Vertical") > 0)
