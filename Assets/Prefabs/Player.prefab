@@ -342,9 +342,13 @@ MonoBehaviour:
   bulletPrefab: {fileID: 1932692683474712, guid: 481a04e955dba974293ff935bf8d97d7,
     type: 2}
   gunTip: {fileID: 4339295814423848}
+  chargerCapacity: 10
   grenadePrefab: {fileID: 1542565566178180, guid: e33322f21d888674e86798f8aa4f8c39,
     type: 2}
   handGrip: {fileID: 4558000071782318}
+  grenadeCount: 2
+  chargerText: {fileID: 0}
+  grenadeText: {fileID: 0}
 --- !u!212 &212099402131788602
 SpriteRenderer:
   m_ObjectHideFlags: 1

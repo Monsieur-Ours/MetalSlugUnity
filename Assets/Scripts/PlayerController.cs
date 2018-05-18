@@ -1,32 +1,51 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
-    public float speed = 5f;
-    public float jumpForce = 600;
-    public GameObject bulletPrefab;
-    public Transform gunTip;
+    /* 
+     * ----------------------------
+     * --------- Publics ----------
+     * ----------------------------
+     */
+    public float        speed     = 5f;        // Player Speed
+    public float        jumpForce = 600;       // Player jump force
+                        
+    public GameObject   bulletPrefab;          // Bullet prefab instantiated at fire
+    public Transform    gunTip;                // Gun tip ( Where the bullet shoot from)
+    public int          chargerCapacity = 20;  // Charger capacity
+                        
+    public GameObject   grenadePrefab;         // Grenade prefab instantiated on throwing grenade
+    public Transform    handGrip;              // Position of the hand to instantiate grenade at this position
+    public int          grenadeCount = 10;      // Number of grenades in pocket
 
-    public GameObject grenadePrefab;
-    public Transform  handGrip;
+    public Text chargerText;                   // Charger capacity text
+    public Text grenadeText;                   // Grenade possesed text
 
-    private Animator anim;
-    private Rigidbody2D rb2d;
-    private bool facingRight = true;
-    private bool jump;
-    private bool onGround = false;
-    private Transform groundCheck;
-    private float hForce = 0;
-    private bool crouched;
-    private bool lookingUp;
-    private bool reloading;
-    private float fireRate = 0.1f;
-    private float nextFire = 0f;
-    private float grenadeRate = 0.5f;
+    /* 
+     * -----------------------------
+     * --------- Privates ----------
+     * -----------------------------
+     */
 
-    private bool isDead = false;
+    private Animator    anim;                  // Player animator
+    private Rigidbody2D rb2d;                  // Player rigide body 2D
+    private bool        facingRight = true;    // Is player facing right ?
+    private bool        jump;                  // Is player jumping ?
+    private bool        onGround = false;      // Is on the ground ?
+    private Transform   groundCheck;           // Position of the ground checker
+    private float       hForce = 0;            // Horizontal force used to create movement
+    private bool        crouched;              // Is player is crouched ?
+    private bool        lookingUp;             // Is player is looking up ?
+    private bool        reloading;             // Is layer is reloading ?
+
+    private float       fireRate = 0.1f;       // Fire rate before shooting or throwing a grenade
+    private float       nextFire = 0f;         // Time before next shoot
+    private float       grenadeRate = 0.5f;    // Time before next grenade
+
+    private bool        isDead = false;        // Is player dead ?
 
 
 	// Use this for initialization
@@ -35,6 +54,9 @@ public class PlayerController : MonoBehaviour {
         rb2d = GetComponent<Rigidbody2D>();
         groundCheck = gameObject.transform.Find("GroundCheck");
         anim = GetComponent<Animator>();
+        chargerText.text = chargerCapacity.ToString();
+        grenadeText.text = grenadeCount.ToString();
+
     }
 	
 	// Update is called once per frame
@@ -44,7 +66,7 @@ public class PlayerController : MonoBehaviour {
         {
             onGround = Physics2D.Linecast(transform.position, groundCheck.position, 1 << LayerMask.NameToLayer("Ground"));
 
-            if(onGround)
+            if (onGround)
             {
                 anim.SetBool("Jump", false);
             }
@@ -60,8 +82,10 @@ public class PlayerController : MonoBehaviour {
                 }
             }
 
-            if (Input.GetButtonDown("Fire1") && Time.time > nextFire)
+            if (Input.GetButtonDown("Fire1") && Time.time > nextFire && chargerCapacity > 0)
             {
+                chargerCapacity--;
+                chargerText.text = chargerCapacity.ToString();
                 nextFire = Time.time + fireRate;
                 anim.SetTrigger("Shoot");
                 GameObject tempBullet = Instantiate(bulletPrefab, gunTip.position, gunTip.rotation);
@@ -84,8 +108,10 @@ public class PlayerController : MonoBehaviour {
                 anim.SetTrigger("Melee");
             }
 
-            if(Input.GetButtonDown("Throw Grenade") && Time.time > nextFire)
+            if(Input.GetButtonDown("Throw Grenade") && Time.time > nextFire && grenadeCount > 0)
             {
+                grenadeCount--;
+                grenadeText.text = grenadeCount.ToString();
                 nextFire = Time.time + grenadeRate;
                 anim.SetTrigger("Grenade");
                 GameObject tempGrenade = Instantiate(grenadePrefab, handGrip.position, handGrip.rotation);
@@ -111,8 +137,10 @@ public class PlayerController : MonoBehaviour {
 
             anim.SetBool("LookingUp", lookingUp);
             anim.SetBool("Crouched", crouched);
-            if(Input.GetButtonDown("Reload"))
+            if(Input.GetButtonDown("Reload") && chargerCapacity < 10)
             {
+                chargerCapacity = 10;
+                chargerText.text = chargerCapacity.ToString();
                 reloading = true;
                 anim.SetBool("Reloading", true);
             }
@@ -122,18 +150,17 @@ public class PlayerController : MonoBehaviour {
                 hForce = 0;
             }
 
-        } else
-        {
-            anim.SetTrigger("Death");
-            Debug.Log("You're dead");
-        }
+        } 
 	}
 
     private void FixedUpdate()
     {
         if(!isDead)
         {
-            if(!crouched && !lookingUp && !reloading)
+            anim.SetBool("Reloading", false);
+            reloading = false;
+
+            if (!crouched && !lookingUp && !reloading)
             hForce = Input.GetAxisRaw("Horizontal");
 
             anim.SetFloat("Speed", Mathf.Abs(hForce));
@@ -173,6 +200,8 @@ public class PlayerController : MonoBehaviour {
         {
             Debug.Log("Player Health at 0");
             isDead = true;
+            anim.SetTrigger("Death");
+            Debug.Log("You're dead");
         }
     }
 

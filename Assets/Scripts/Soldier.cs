@@ -25,9 +25,12 @@ public class Soldier : EnemyController {
     private bool isDead = false;
     private bool isThrowingGrenade = false;
 
+    private GameController gc;
+
     // Use this for initialization
     void Start () {
         anim = GetComponent<Animator>();
+        gc = FindObjectOfType<GameController>();
 	}
 	
 	// Update is called once per frame
@@ -94,11 +97,6 @@ public class Soldier : EnemyController {
                 }
             }
         }
-        else
-        {
-            anim.SetTrigger("Death");
-            Debug.Log("Enemy dead");
-        }
 	}
 
     void Dead(int health)
@@ -107,6 +105,9 @@ public class Soldier : EnemyController {
         {
             Debug.Log("Enemy Health at 0");
             isDead = true;
+            anim.SetTrigger("Death");
+            gc.SendMessage("IncreaseScore", 100f, SendMessageOptions.DontRequireReceiver);
+            Debug.Log("Enemy dead");
         }
     }
 
