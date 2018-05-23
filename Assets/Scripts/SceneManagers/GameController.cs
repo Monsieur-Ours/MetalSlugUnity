@@ -27,13 +27,8 @@ public class GameController : MonoBehaviour
         timerText.text = Mathf.Round(timer).ToString();
         if (timer <= 0)
         {
-            GameOver();
+            SceneManager.LoadScene("GameOver");
         }
-    }
-
-    void GameOver()
-    {
-        SceneManager.LoadScene("Metal_Slug");
     }
 
     void IncreaseScore(float scoreInc)
