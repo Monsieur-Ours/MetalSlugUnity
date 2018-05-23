@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
@@ -201,12 +202,18 @@ public class PlayerController : MonoBehaviour {
             Debug.Log("Player Health at 0");
             isDead = true;
             anim.SetTrigger("Death");
-            Debug.Log("You're dead");
         }
+    }
+
+    void GainGrenade(int grenadeAmount)
+    {
+        grenadeCount += grenadeAmount;
+        grenadeText.text = grenadeCount.ToString();
     }
 
     void DestroyObject()
     {
         Destroy(gameObject);
+        SceneManager.LoadScene("GameOver");
     }
 }
