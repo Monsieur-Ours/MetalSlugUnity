@@ -31,7 +31,7 @@ public class EnemyController : MonoBehaviour {
         }
     }
 
-    protected void FixedUpdate()
+    virtual protected void FixedUpdate()
     {
         if (target)
         {

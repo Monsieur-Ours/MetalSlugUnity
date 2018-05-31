@@ -5,6 +5,7 @@ using UnityEngine;
 public class HealthCrate : MonoBehaviour {
 
     public int healthAmount;
+    public AudioManager audioManager;
 
 	// Use this for initialization
 	void Start () {
@@ -20,6 +21,7 @@ public class HealthCrate : MonoBehaviour {
     {
         collision.gameObject.SendMessage("GainHealth", healthAmount, SendMessageOptions.DontRequireReceiver);
         Debug.Log("Healt Crate detected" + healthAmount.ToString());
+        audioManager.Play("Ok");
         AfterTriggerEnter();
 
     }

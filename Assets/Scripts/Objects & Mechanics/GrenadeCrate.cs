@@ -5,9 +5,10 @@ using UnityEngine;
 public class GrenadeCrate : MonoBehaviour {
 
     public int grenadeAmount;
+    public AudioManager audioManager;
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
 		
 	}
 	
@@ -20,6 +21,7 @@ public class GrenadeCrate : MonoBehaviour {
     {
         collision.SendMessage("GainGrenade", grenadeAmount, SendMessageOptions.DontRequireReceiver);
         Debug.Log("Grenade Crate detected : " + grenadeAmount.ToString());
+        audioManager.Play("Ok");
         AfterTriggerEnter();
     }
 

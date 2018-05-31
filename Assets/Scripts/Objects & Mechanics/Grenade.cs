@@ -19,6 +19,7 @@ public class Grenade : DamageEffector {
     protected override void AfterTriggerEnter()
     {
         speed = 0f;
+        FindObjectOfType<AudioManager>().Play("Explosion");
         anim.SetTrigger("Explode");
     }
 

@@ -159,7 +159,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1979567054032818}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -22.22, y: -1.81, z: 0}
+  m_LocalPosition: {x: -22.39, y: -2.34, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 4027741389624180}
@@ -312,7 +312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   effectorTag: Enemy
-  maxHealth: 10
+  maxHealth: 100
   healthBar: {fileID: 0}
 --- !u!114 &114439622547261814
 MonoBehaviour:
@@ -346,9 +346,10 @@ MonoBehaviour:
   grenadePrefab: {fileID: 1542565566178180, guid: e33322f21d888674e86798f8aa4f8c39,
     type: 2}
   handGrip: {fileID: 4558000071782318}
-  grenadeCount: 5
+  grenadeCount: 3
   chargerText: {fileID: 0}
   grenadeText: {fileID: 0}
+  audioManager: {fileID: 0}
 --- !u!212 &212099402131788602
 SpriteRenderer:
   m_ObjectHideFlags: 1
@@ -470,7 +471,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 879842001
   m_SortingLayer: 2
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_Sprite: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

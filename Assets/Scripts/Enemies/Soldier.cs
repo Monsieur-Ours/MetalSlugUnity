@@ -22,6 +22,8 @@ public class Soldier : EnemyController {
     public GameObject grenadePrefab;
     public Transform handGrip;
 
+    public AudioManager audioManager;
+
     private bool isDead = false;
     private bool isThrowingGrenade = false;
 
@@ -34,29 +36,26 @@ public class Soldier : EnemyController {
 	}
 	
 	// Update is called once per frame
-	protected override void Update () {
+	protected override void Update ()
+    {
         if(!isDead)
         {
             if(target)
             {
                 base.Update();
 
-                //If too far run to player
+                // If at attack distance but not melee, shoot or throw a grenade
                 if (Mathf.Abs(targetDistance) < viewDistance && Mathf.Abs(targetDistance) > attackDistance && Mathf.Abs(targetDistance) > meleeDistance)
                 {
                     anim.SetFloat("Speed", speed);
                     transform.position = Vector3.MoveTowards(transform.position, target.transform.position, speed * Time.deltaTime);
-                }
-                // If at attack distance but not melee, shoot or throw a grenade
-                else if(Mathf.Abs(targetDistance) <= attackDistance && Mathf.Abs(targetDistance) > meleeDistance)
-                {
                     if ( Time.time > nextFire && !isThrowingGrenade)
                     {
                         if (Time.time > nextGrenade)
                         {
                             isThrowingGrenade = true;
+                            audioManager.Play("Melee");
                             nextGrenade = Time.time + grenadeRate;
-                            anim.SetTrigger("Grenade");
                             if (facingRight)
                             {
                                 GameObject tempGrenade = Instantiate(grenadePrefab, handGrip.position, handGrip.rotation);
@@ -74,6 +73,7 @@ public class Soldier : EnemyController {
                             nextFire = Time.time + fireRate;
                             anim.SetFloat("Speed", 0);
                             anim.SetTrigger("Shoot");
+                            audioManager.Play("Shoot");
 
                             if (facingRight)
                             {
@@ -87,9 +87,10 @@ public class Soldier : EnemyController {
                         }
                     }
                 }
-                else if (Mathf.Abs(targetDistance) <= meleeDistance) 
+                else if (Mathf.Abs(targetDistance) <= meleeDistance)
                 {
                     anim.SetTrigger("Melee");
+                    audioManager.Play("Melee");
                 }
                 else
                 {

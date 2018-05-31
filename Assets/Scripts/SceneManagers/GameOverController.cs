@@ -7,8 +7,8 @@ public class GameOverController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
-	}
+        FindObjectOfType<AudioManager>().Play("Game Over");
+    }
 	
 	// Update is called once per frame
 	void Update () { 

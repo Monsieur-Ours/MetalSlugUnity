@@ -24,6 +24,7 @@ public class PlayerController : MonoBehaviour {
 
     public Text chargerText;                   // Charger capacity text
     public Text grenadeText;                   // Grenade possesed text
+    public AudioManager audioManager;          // Audio Manager
 
     /* 
      * -----------------------------
@@ -89,6 +90,7 @@ public class PlayerController : MonoBehaviour {
                 chargerText.text = chargerCapacity.ToString();
                 nextFire = Time.time + fireRate;
                 anim.SetTrigger("Shoot");
+                audioManager.Play("Shoot");
                 GameObject tempBullet = Instantiate(bulletPrefab, gunTip.position, gunTip.rotation);
                 if(!facingRight && !lookingUp)
                 {
@@ -107,6 +109,7 @@ public class PlayerController : MonoBehaviour {
             if (Input.GetButtonDown("Melee"))
             {
                 anim.SetTrigger("Melee");
+                audioManager.Play("Melee");
             }
 
             if(Input.GetButtonDown("Throw Grenade") && Time.time > nextFire && grenadeCount > 0)
@@ -115,6 +118,7 @@ public class PlayerController : MonoBehaviour {
                 grenadeText.text = grenadeCount.ToString();
                 nextFire = Time.time + grenadeRate;
                 anim.SetTrigger("Grenade");
+                audioManager.Play("Melee");
                 GameObject tempGrenade = Instantiate(grenadePrefab, handGrip.position, handGrip.rotation);
                 if (!facingRight && !lookingUp)
                 {

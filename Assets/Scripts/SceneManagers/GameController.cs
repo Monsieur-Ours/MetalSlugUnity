@@ -13,6 +13,12 @@ public class GameController : MonoBehaviour
     private float timer = 100f;
     private float score = 0f;
 
+    private void Awake()
+    {
+        FindObjectOfType<AudioManager>().Play("Stage 1");
+        FindObjectOfType<AudioManager>().Play("Mission Start");
+    }
+
     // Use this for initialization
     void Start()
     {

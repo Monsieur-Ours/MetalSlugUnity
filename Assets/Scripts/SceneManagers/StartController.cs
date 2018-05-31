@@ -7,7 +7,7 @@ public class StartController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+        FindObjectOfType<AudioManager>().Play("Menu");
 	}
 	
 	// Update is called once per frame
