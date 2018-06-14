@@ -17,4 +17,10 @@ public class StartController : MonoBehaviour {
             SceneManager.LoadScene("Metal_Slug");
         }
 	}
+
+    public void QuitGame()
+    {
+        Debug.Log("QUIT");
+        Application.Quit();
+    }
 }
